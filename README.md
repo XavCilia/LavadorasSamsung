@@ -1,2 +1,2 @@
 # LavadorasSamsung
-Programación java orientado a objetos
+Programa java orientado a objetos
